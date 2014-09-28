@@ -3316,7 +3316,18 @@ var Pets =
           "obtainable": true,
           "allowableRaces": [],
           "allowableClasses": null
-        }	
+        },
+	// Blizzcon 2014		
+        {
+          "spellid": "177234",
+          "allianceId": null,
+          "hordeId": null,
+          "itemId": "118517",
+          "icon": "inv_grommloc",
+          "obtainable": true,
+          "allowableRaces": [],
+          "allowableClasses": null
+        }        
         ]
       },
       {
