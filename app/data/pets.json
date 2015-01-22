@@ -1685,19 +1685,24 @@
             "obtainable": true,
             "allowableRaces": [],
             "allowableClasses": null
-          },
+          }
+        ]
+      },
+      {
+        "name": "Herbalism",
+        "items": [
           {
-            "spellid": "168977",
+            "spellid": "167394",
             "allianceId": null,
             "hordeId": null,
-            "itemId": "114919",
-            "icon": "inv_misc_throwingball_01",
+            "itemId": "118595",
+            "icon": "inv_podling_purple",
             "obtainable": true,
             "allowableRaces": [],
             "allowableClasses": null
           }
         ]
-      },
+      },		  
       {
         "name": "Inscription",
         "items": [
@@ -1748,6 +1753,21 @@
           }
         ]
       },
+      {
+        "name": "Mining",
+        "items": [
+          {
+            "spellid": "170280",
+            "allianceId": null,
+            "hordeId": null,
+            "itemId": "118919",
+            "icon": "creatureportrait_twilightshammer_dragonegg_red_01",
+            "obtainable": true,
+            "allowableRaces": [],
+            "allowableClasses": null
+          }
+        ]
+      },		  
       {
         "name": "Tailoring",
         "items": [
@@ -2195,7 +2215,17 @@
             "obtainable": true,
             "allowableRaces": [],
             "allowableClasses": null
-          }
+          },
+          {
+            "spellid": "138082",
+            "allianceId": null,
+            "hordeId": null,
+            "itemId": "94124",
+            "icon": "inv_pet_arcanegolem",
+            "obtainable": true,
+            "allowableRaces": [],
+            "allowableClasses": null
+          }		  
         ]
       },
       {
@@ -2327,16 +2357,6 @@
             "hordeId": null,
             "itemId": "104291",
             "icon": "inv_misc_food_vendor_boiledsilkwormpupa",
-            "obtainable": true,
-            "allowableRaces": [],
-            "allowableClasses": null
-          },
-          {
-            "spellid": "138082",
-            "allianceId": null,
-            "hordeId": null,
-            "itemId": "94124",
-            "icon": "inv_pet_arcanegolem",
             "obtainable": true,
             "allowableRaces": [],
             "allowableClasses": null
@@ -2517,26 +2537,6 @@
             "hordeId": null,
             "itemId": "116815",
             "icon": "spell_nature_acid_01",
-            "obtainable": true,
-            "allowableRaces": [],
-            "allowableClasses": null
-          },
-          {
-            "spellid": "167394",
-            "allianceId": null,
-            "hordeId": null,
-            "itemId": "118595",
-            "icon": "inv_podling_purple",
-            "obtainable": true,
-            "allowableRaces": [],
-            "allowableClasses": null
-          },
-          {
-            "spellid": "170280",
-            "allianceId": null,
-            "hordeId": null,
-            "itemId": "118919",
-            "icon": "creatureportrait_twilightshammer_dragonegg_red_01",
             "obtainable": true,
             "allowableRaces": [],
             "allowableClasses": null
@@ -3698,6 +3698,16 @@
             "allowableRaces": [],
             "allowableClasses": null
           },
+          {
+            "spellid": "168977",
+            "allianceId": null,
+            "hordeId": null,
+            "itemId": "114919",
+            "icon": "inv_misc_throwingball_01",
+            "obtainable": true,
+            "allowableRaces": [],
+            "allowableClasses": null
+          }		  
           {
             "spellid": "170271",
             "allianceId": null,
